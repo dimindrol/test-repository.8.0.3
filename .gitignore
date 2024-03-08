@@ -1,0 +1,3 @@
+# ignore all рус
+*.рус
+cashed/
